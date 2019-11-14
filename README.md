@@ -1,1 +1,2 @@
 # idnkota
+Ambil aja
